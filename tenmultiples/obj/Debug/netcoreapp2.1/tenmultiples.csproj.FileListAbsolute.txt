@@ -1,0 +1,11 @@
+C:\Projects\New\tenmultiples\tenmultiples\bin\Debug\netcoreapp2.1\tenmultiples.deps.json
+C:\Projects\New\tenmultiples\tenmultiples\bin\Debug\netcoreapp2.1\tenmultiples.runtimeconfig.json
+C:\Projects\New\tenmultiples\tenmultiples\bin\Debug\netcoreapp2.1\tenmultiples.runtimeconfig.dev.json
+C:\Projects\New\tenmultiples\tenmultiples\bin\Debug\netcoreapp2.1\tenmultiples.dll
+C:\Projects\New\tenmultiples\tenmultiples\bin\Debug\netcoreapp2.1\tenmultiples.pdb
+C:\Projects\New\tenmultiples\tenmultiples\obj\Debug\netcoreapp2.1\tenmultiples.csprojAssemblyReference.cache
+C:\Projects\New\tenmultiples\tenmultiples\obj\Debug\netcoreapp2.1\tenmultiples.csproj.CoreCompileInputs.cache
+C:\Projects\New\tenmultiples\tenmultiples\obj\Debug\netcoreapp2.1\tenmultiples.AssemblyInfoInputs.cache
+C:\Projects\New\tenmultiples\tenmultiples\obj\Debug\netcoreapp2.1\tenmultiples.AssemblyInfo.cs
+C:\Projects\New\tenmultiples\tenmultiples\obj\Debug\netcoreapp2.1\tenmultiples.dll
+C:\Projects\New\tenmultiples\tenmultiples\obj\Debug\netcoreapp2.1\tenmultiples.pdb
